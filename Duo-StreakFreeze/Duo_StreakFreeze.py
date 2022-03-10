@@ -1,6 +1,6 @@
 import duolingo
-username = 'joshlintag'
-password = ''
+username = 'joshlintag' #add your username here
+password = '' #add your password here
 
 print('Duolingo Streak Freeze')
 
